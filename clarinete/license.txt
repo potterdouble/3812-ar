@@ -1,0 +1,11 @@
+Model Information:
+* title:	Clarinete
+* source:	https://sketchfab.com/3d-models/clarinete-d61bb4e061334edeab13bbcb0e192cf4
+* author:	e-sfera (https://sketchfab.com/skolskaknjiga)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Clarinete" (https://sketchfab.com/3d-models/clarinete-d61bb4e061334edeab13bbcb0e192cf4) by e-sfera (https://sketchfab.com/skolskaknjiga) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
